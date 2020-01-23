@@ -1,0 +1,5 @@
+.job-card{
+    border: 1px solid black;
+    max-width: fit-content;
+    padding: 1rem;
+}
